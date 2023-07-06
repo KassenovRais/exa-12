@@ -1,0 +1,40 @@
+.enterClient{
+       font-size: 1.3rem;
+       height: 2rem;
+       outline: none;
+       font-weight: 800;
+       width: 100%;
+       background: none;
+       border: 1px solid white;
+
+}      
+.dragBlock{
+       display: flex;
+       align-items: center;
+       width: max-content;
+       justify-content: center;
+       height: 2rem;
+       border: gray;
+       background: none;
+       margin-top: 1.3rem;
+       border: 1px solid white;  
+
+}
+.BTN{
+       width: max-content;
+       background: none;
+       font-weight: 800;
+       border: 1px solid white;
+}
+.formBtn{
+       margin-top: 1.3rem;
+}
+.add{
+       position: fixed;
+       top: 15vh;
+       right: 13vw;
+}
+.hiddenEnter{
+       display: none;
+}
+

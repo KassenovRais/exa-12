@@ -1,0 +1,13 @@
+.link{
+       font-weight: 800;
+       font-size: 1.6rem;
+       text-decoration: none;
+}
+.active{
+       color: teal;
+}
+.deactive{
+       color: white;
+}
+
+

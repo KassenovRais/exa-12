@@ -1,0 +1,13 @@
+.layout{
+       width: 80%;
+       margin: 0 auto;
+       height: 13vh;
+       display: flex;
+       align-items: center;
+       justify-content: space-between;
+}
+.titleLayout{
+       font-weight: 800;
+       width: 30%;
+}
+
